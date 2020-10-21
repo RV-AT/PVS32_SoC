@@ -1,0 +1,107 @@
+m255
+K3
+13
+cModel Technology
+dD:\Projects\FPGA\5Stage_MIPS\5Stage_MIPS.sim
+T_opt
+V^n0@d<U1_EV=iW77NbfW;3
+04 10 4 work UART_IP_TB fast 0
+=1-2c600c9cbd66-5d67c55b-c2-2640
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vBaudGen
+I4ZLb_7690VPJoF^RoJA4H1
+V8PMIT>ifCbQ8^Sc@DMNXa2
+Z0 dD:\Projects\FPGA\px_rv32_SoC\sim
+w1567080190
+8D:/Projects/FPGA/px_rv32_SoC/rtl/UART/BaudGen.v
+FD:/Projects/FPGA/px_rv32_SoC/rtl/UART/BaudGen.v
+L0 2
+Z1 OL;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@baud@gen
+!s100 WQlC^l[1`o8o5d=;[Y`kl3
+!s90 -reportprogress|300|-work|work|-vopt|D:/Projects/FPGA/px_rv32_SoC/rtl/UART/BaudGen.v|
+!s108 1567081812.971000
+!s107 D:/Projects/FPGA/px_rv32_SoC/rtl/UART/BaudGen.v|
+!i10b 1
+!s85 0
+vUART_IP
+IJK>lROUPKJM;7ADhjhAVZ2
+VT6Kk@<SQlDe3VW]2F^KMQ1
+Z3 dD:\Projects\FPGA\px_rv32_SoC\sim
+w1567080166
+8D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_IP.v
+FD:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_IP.v
+L0 5
+R1
+r1
+31
+R2
+n@u@a@r@t_@i@p
+!s100 J2G[YZTEm64WjMCDV4NkC0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_IP.v|
+!s108 1567081812.813000
+!s107 D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_IP.v|
+!i10b 1
+!s85 0
+vUART_IP_TB
+I4cD2D>k>N7@CL@OHR6DSS3
+V5_mEOI^7h58I3jCAS@mCS2
+R3
+w1567080151
+8D:/Projects/FPGA/px_rv32_SoC/sim/UART_IP_TB.v
+FD:/Projects/FPGA/px_rv32_SoC/sim/UART_IP_TB.v
+L0 2
+R1
+r1
+31
+R2
+n@u@a@r@t_@i@p_@t@b
+!s100 UDPS1CG<A1gC;cCUggkJ;1
+!s90 -reportprogress|300|-work|work|-vopt|D:/Projects/FPGA/px_rv32_SoC/sim/UART_IP_TB.v|
+!s108 1567081812.653000
+!s107 D:/Projects/FPGA/px_rv32_SoC/sim/UART_IP_TB.v|
+!i10b 1
+!s85 0
+vUART_Rx
+IiF3L93lXlV]BfbZ[2NhzZ2
+VENTKnk?j2JJoNKz5hJ7^V2
+R3
+w1567081779
+8D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Rx.v
+FD:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Rx.v
+L0 1
+R1
+r1
+31
+R2
+n@u@a@r@t_@rx
+!s90 -reportprogress|300|-work|work|-vopt|D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Rx.v|
+!s100 CNJ;55bHnL3<Zg:d1bUzj0
+!s108 1567081813.133000
+!s107 D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Rx.v|
+!i10b 1
+!s85 0
+vUART_Tx
+IBi2>AOG=;FII`1YEXY7FT1
+V3URN]fg:F6XUh`<V7;?111
+R3
+w1560958559
+8D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Tx.v
+FD:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Tx.v
+L0 1
+R1
+r1
+31
+R2
+n@u@a@r@t_@tx
+!s100 :JH:0mR:^[[FV<]z_gF2E2
+!s90 -reportprogress|300|-work|work|-vopt|D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Tx.v|
+!i10b 1
+!s85 0
+!s108 1567081813.289000
+!s107 D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Tx.v|

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Jun 27 18:36:08 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : px_rv32_soc
+Top-level Entity Name : px_rv32_soc
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 2,499 / 6,272 ( 40 % )
+    Total combinational functions : 2,414 / 6,272 ( 38 % )
+    Dedicated logic registers : 674 / 6,272 ( 11 % )
+Total registers : 674
+Total pins : 37 / 92 ( 40 % )
+Total virtual pins : 0
+Total memory bits : 165,888 / 276,480 ( 60 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

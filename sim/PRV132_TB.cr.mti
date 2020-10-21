@@ -1,0 +1,36 @@
+D:/Projects/FPGA/px_rv32_SoC/rtl/UART/BaudGen.v {1 {vlog -work work -vopt D:/Projects/FPGA/px_rv32_SoC/rtl/UART/BaudGen.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module BaudGen
+
+Top level modules:
+	BaudGen
+
+} {} {}} D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Tx.v {1 {vlog -work work -vopt D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Tx.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module UART_Tx
+
+Top level modules:
+	UART_Tx
+
+} {} {}} D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_IP.v {1 {vlog -work work -vopt D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_IP.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module UART_IP
+
+Top level modules:
+	UART_IP
+
+} {} {}} D:/Projects/FPGA/px_rv32_SoC/sim/UART_IP_TB.v {1 {vlog -work work -vopt D:/Projects/FPGA/px_rv32_SoC/sim/UART_IP_TB.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module UART_IP_TB
+
+Top level modules:
+	UART_IP_TB
+
+} {} {}} D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Rx.v {1 {vlog -work work -vopt D:/Projects/FPGA/px_rv32_SoC/rtl/UART/UART_Rx.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module UART_Rx
+
+Top level modules:
+	UART_Rx
+
+} {} {}}

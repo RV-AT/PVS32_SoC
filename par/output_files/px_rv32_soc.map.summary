@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Jun 27 18:35:34 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : px_rv32_soc
+Top-level Entity Name : px_rv32_soc
+Family : Cyclone IV E
+Total logic elements : 2,617
+    Total combinational functions : 2,414
+    Dedicated logic registers : 674
+Total registers : 674
+Total pins : 37
+Total virtual pins : 0
+Total memory bits : 165,888
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

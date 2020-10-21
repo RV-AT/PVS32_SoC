@@ -1,0 +1,89 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -16.361
+TNS   : -6516.180
+
+Type  : Slow 1200mV 85C Model Setup 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -11.537
+TNS   : -361.623
+
+Type  : Slow 1200mV 85C Model Hold 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -4.905
+TNS   : -54.390
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.485
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -4.273
+TNS   : -1381.919
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.201
+TNS   : -1242.066
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'px_rv32:px_rv32|biu:biu|ins[0]'
+Slack : -1.487
+TNS   : -35.688
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -15.310
+TNS   : -6071.245
+
+Type  : Slow 1200mV 0C Model Setup 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -11.132
+TNS   : -348.076
+
+Type  : Slow 1200mV 0C Model Hold 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -4.495
+TNS   : -51.385
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -4.009
+TNS   : -1279.787
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.201
+TNS   : -1242.066
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'px_rv32:px_rv32|biu:biu|ins[0]'
+Slack : -1.487
+TNS   : -36.999
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -6.698
+TNS   : -2453.703
+
+Type  : Fast 1200mV 0C Model Setup 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -4.661
+TNS   : -146.830
+
+Type  : Fast 1200mV 0C Model Hold 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -2.361
+TNS   : -28.350
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -1046.119
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'px_rv32:px_rv32|biu:biu|statu_biu[0]'
+Slack : -1.727
+TNS   : -506.596
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'px_rv32:px_rv32|biu:biu|ins[0]'
+Slack : -1.000
+TNS   : -24.000
+
+------------------------------------------------------------

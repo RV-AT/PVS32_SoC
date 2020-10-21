@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "statu[0]",
+					"strict" : false
+				},
+				{
+					"name" : "statu[1]",
+					"strict" : false
+				},
+				{
+					"name" : "statu[2]",
+					"strict" : false
+				},
+				{
+					"name" : "statu_biu[0]",
+					"strict" : false
+				},
+				{
+					"name" : "statu_biu[1]",
+					"strict" : false
+				},
+				{
+					"name" : "statu_biu[2]",
+					"strict" : false
+				},
+				{
+					"name" : "statu_biu[3]",
+					"strict" : false
+				},
+				{
+					"name" : "timer_int_acc_o",
+					"strict" : false
+				},
+				{
+					"name" : "pc_jmp",
+					"strict" : false
+				},
+				{
+					"name" : "p0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
